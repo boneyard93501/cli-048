@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=schemas/workers.yaml.json
+
+# A result of app deployment. This file is created automatically after successful deployment using `fluence workers deploy` command
+
+# Documentation: https://github.com/fluencelabs/fluence-cli/tree/main/docs/configs/workers.md
+
+version: 0
+hosts:
+  defaultWorker:
+    definition: bafkreihbzgkr3smbg6vnfqzk3tr7lnshbrnh3bmktd2r2prpvnlhnrm6zu
+    installation_spells:
+      - host_id: 12D3KooWBM3SdXWqGaawQDGQ6JprtwswEg3FWGvGhmgmMez1vRbR
+        spell_id: ab47b81e-019a-4c38-918c-ef30c9601a3c
+        worker_id: 12D3KooWHpGqBGMSpKcE1MiHq4zNNTCdV2KqsTwbYqiFFSu9tKPp
+    timestamp: 2023-04-14T17:28:42.630Z
+    relayId: 12D3KooWBM3SdXWqGaawQDGQ6JprtwswEg3FWGvGhmgmMez1vRbR

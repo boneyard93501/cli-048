@@ -1,0 +1,3 @@
+[[module]]
+name = "service"
+load_from = "/Users/bebo/localdev/048/target/wasm32-wasi/release/service.wasm"
